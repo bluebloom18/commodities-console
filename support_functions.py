@@ -21,7 +21,7 @@ import plotly.graph_objects as go
 # Configuration - Change these to suit
 #############################################################################
 # Path location
-base_path = "/tmp/"
+base_path = "./tmp/"
 
 # Set a list of years to retrieve for analysis
 # Data is available from 2006 until current
